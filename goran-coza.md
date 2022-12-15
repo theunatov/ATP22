@@ -1,3 +1,3 @@
-[Index](https://www.github.com/fpehar/ATP22/blob/main/index.md)
+[Index](https://www.https://github.com/fpehar/ATP22)
 # Prva stranica
 Ovo je moja prva stranica.
