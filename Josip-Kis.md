@@ -9,7 +9,3 @@ Moja prva stranica
 ## Druga stranica
 **Bing chilling**  
 
-China Numbah Wan
-
-[God Damn](https://www.youtube.com/watch?v=bgBKEr5BYbw)  
-Bruh
