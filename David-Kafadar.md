@@ -1,3 +1,3 @@
-[Link za stranicu](https://github.com/fpehar/ATP22/blob/main/index.md)
+[Link za stranicu](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 # Prva stranica
 Ovo je moja prva stranica
