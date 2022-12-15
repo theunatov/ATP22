@@ -7,7 +7,9 @@ Naslov: Josip Kiš - naslovnica
 Moja prva stranica
 
 ## Druga stranica
-**Bing chilling** 
+**Bing chilling**  
+
 China Numbah Wan
 
-[God Damn](https://www.youtube.com/watch?v=bgBKEr5BYbw)
+[God Damn](https://www.youtube.com/watch?v=bgBKEr5BYbw)  
+Bruh
