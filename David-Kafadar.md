@@ -1,3 +1,3 @@
-[index.html](https://github.com/fpehar/index.html)
+[Link za stranicu](https://github.com/fpehar/ATP22)
 # Prva stranica
 Ovo je moja prva stranica
