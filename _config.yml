@@ -1,11 +1,11 @@
 # Set a plain language title for the site.
-title: Plain Vanilla GitHub Pages
+title: Naslovnica
 
 # Write a short description for the site. This is used for "meta description."
-description: Free, easy, low-tech website template using GitHub Pages
+description: kako jednostavno izraditi web stranice uz pomoć GitHuba
 
 # Set the language for the site. Used for "html lang." Default is English.
-lang: en
+lang: hr
 
 # Avoid GitHub API authentication when building locally.
 github: [metadata]
