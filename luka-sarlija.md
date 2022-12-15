@@ -1,6 +1,6 @@
 [ovo je prva stranica](https://github.com/fpehar/ATP22/index.html)
 
-luka-šarlija naslovnica
+luka-sarlija naslovnica
 
 
 ovo je moja prva stranica
