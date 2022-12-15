@@ -1,6 +1,6 @@
 [Index.md](https://github.com/fpehar/ATP22/blob/main/index.md)
 ---
-Naslov: Josip kiš - naslovnica
+Naslov: Josip Kiš - naslovnica
 ---
 
 # Prva stranica
