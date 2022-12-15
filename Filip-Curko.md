@@ -1,4 +1,4 @@
-[Index] https://github.com/fpehar/ATP22/edit/main/Filip-%C4%86urko.md
+[Index.html] https://github.com/fpehar/ATP22/edit/main/Filip-%C4%86urko.md
 ---
 Naslov: Filip Ćurko - naslovnica
 ---
